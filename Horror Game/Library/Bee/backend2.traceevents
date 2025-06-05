@@ -1,0 +1,288 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1745405233791419, "dur":60, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405233791530, "dur":24451, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405233815990, "dur":81, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405233816105, "dur":487, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405233816795, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1745405233817196, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1745405233817272, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1745405233817717, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1745405233817839, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":0, "ts":1745405233818438, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233818811, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233819143, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233819362, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233819756, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233819940, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233820123, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233820296, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233820974, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233821090, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745405233821435, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1745405233821619, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1745405233816631, "dur":5387, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405233822020, "dur":1400168, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405235222189, "dur":125, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405235222348, "dur":52, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405235222527, "dur":1212, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1745405233817210, "dur":4842, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745405233822060, "dur":338, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745405233822399, "dur":280, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745405233822679, "dur":1193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745405233823892, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745405233823878, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745405233825182, "dur":10915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1745405233836262, "dur":15889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1745405233852227, "dur":39913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1745405233892271, "dur":3718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405233896057, "dur":101275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405233997369, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405233998492, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234000458, "dur":2868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234003365, "dur":126341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234129741, "dur":46535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234176337, "dur":14462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234190888, "dur":14708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234205716, "dur":7906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234213662, "dur":4563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234218259, "dur":7960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234226281, "dur":5080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234231436, "dur":3105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234234710, "dur":4300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234239080, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234239077, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745405234239153, "dur":982967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233817163, "dur":4870, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745405233822040, "dur":1790, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745405233834761, "dur":518, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1745405233835292, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405233835436, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1745405233835933, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233836083, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233836352, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233836696, "dur":285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233836982, "dur":467, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233837450, "dur":714, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233838166, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233838333, "dur":489, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745405233838908, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerfc4b5605-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1745405233835285, "dur":3866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405233839481, "dur":75, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745405233839943, "dur":693852, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405234535359, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405234535358, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405234557272, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745405234535516, "dur":21883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745405234557404, "dur":664758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233817836, "dur":4380, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233822217, "dur":319, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233822536, "dur":1343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233825140, "dur":4900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1745405233830098, "dur":37485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1745405233867608, "dur":14339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1745405233867605, "dur":14345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1745405233881960, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233882075, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1745405233885412, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405233885716, "dur":41617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405233927387, "dur":71612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234003533, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405233999035, "dur":4594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234003746, "dur":125547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234129347, "dur":41450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234170846, "dur":11168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234182082, "dur":7875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234194405, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405234190031, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234194623, "dur":7860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234202556, "dur":6530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234209202, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405234209293, "dur":3600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234212940, "dur":4498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234217481, "dur":4308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234221840, "dur":6433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234228317, "dur":5890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234234253, "dur":5822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745405234240170, "dur":4996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745405234278284, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405234245212, "dur":33180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745405234278458, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level3.resS" }}
+,{ "pid":12345, "tid":3, "ts":1745405234284451, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745405234280982, "dur":3564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1745405234284576, "dur":937620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745405233817343, "dur":4733, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745405233822084, "dur":455, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745405233822539, "dur":1318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745405233823885, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1745405233823858, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1745405233834477, "dur":21114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1745405233855615, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1745405233855909, "dur":16922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1745405233872855, "dur":11457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1745405233884351, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1745405233887834, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1745405233888140, "dur":171385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1745405234059580, "dur":97978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234157598, "dur":24589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234182223, "dur":19410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234201674, "dur":5735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234207466, "dur":4279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234211896, "dur":6662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234218717, "dur":349, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745405234219090, "dur":10919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234230095, "dur":3037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234233256, "dur":3970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234237322, "dur":3402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745405234240794, "dur":3996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":4, "ts":1745405234244865, "dur":19151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1745405234264072, "dur":12047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1745405234276182, "dur":3757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1745405234280024, "dur":4077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1745405234284342, "dur":937844, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745405233817193, "dur":4850, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745405233822051, "dur":398, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745405233822450, "dur":1403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745405233823881, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1745405233823862, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1745405233833864, "dur":59928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1745405233893840, "dur":103086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405233996971, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405233999384, "dur":2955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234002512, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234004546, "dur":153152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234157733, "dur":28236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234186015, "dur":15472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234201526, "dur":227, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745405234201755, "dur":8623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234210427, "dur":3430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234213957, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234218171, "dur":8521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234226791, "dur":5928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234233284, "dur":4535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234237888, "dur":3660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745405234241603, "dur":7045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1745405234248694, "dur":16025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1745405234264855, "dur":9848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1745405234275811, "dur":2988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1745405234278838, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1745405234278920, "dur":3250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1745405234282215, "dur":1937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1745405234284218, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1745405234286361, "dur":935798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233817255, "dur":4811, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233822074, "dur":343, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233822418, "dur":68, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233822487, "dur":1358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233823861, "dur":269, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233835272, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1745405233837000, "dur":48823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1745405233885847, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405233885844, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234175102, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405233885947, "dur":289368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234175557, "dur":10494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234186118, "dur":4726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234191006, "dur":128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405234191139, "dur":10457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234201767, "dur":4713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234206554, "dur":4491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234216039, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745405234211091, "dur":5205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234216369, "dur":4758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234221186, "dur":9118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234230364, "dur":3009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234233456, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234237217, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745405234240328, "dur":3843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":6, "ts":1745405234244218, "dur":4780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1745405234249045, "dur":21757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1745405234270944, "dur":57138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1745405234328117, "dur":894046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233817395, "dur":4691, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233822091, "dur":346, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233822438, "dur":1426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233823870, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1745405233824822, "dur":41840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1745405233866687, "dur":14903, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1745405233866685, "dur":14909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1745405233894541, "dur":537, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233881998, "dur":13178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1745405233895252, "dur":101681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405233998126, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405233996975, "dur":1221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405233998294, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234000158, "dur":134, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234000296, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234002632, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234172278, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234004984, "dur":167426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234172753, "dur":13974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234186766, "dur":4431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234191257, "dur":10333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234201666, "dur":5378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234207175, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234207271, "dur":3982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234211361, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234211469, "dur":4985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234219624, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234216542, "dur":3154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234219769, "dur":7033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234226848, "dur":6408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234236314, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234233463, "dur":2982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234236740, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234236800, "dur":5483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745405234266258, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234242358, "dur":23992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1745405234266453, "dur":9347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1745405234275843, "dur":3414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level4.resS" }}
+,{ "pid":12345, "tid":7, "ts":1745405234282508, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234279290, "dur":3326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1745405234284153, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234282664, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1745405234285566, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745405234284276, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1745405234285703, "dur":936490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405233817541, "dur":4558, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405233822106, "dur":419, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405233822526, "dur":1332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405233823859, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233825020, "dur":4083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233829170, "dur":3164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233832614, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1745405233835439, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233835437, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233835809, "dur":31495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1745405233867328, "dur":14366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1745405233881969, "dur":2786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1745405233885148, "dur":2575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1745405233887820, "dur":1507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game.exe" }}
+,{ "pid":12345, "tid":8, "ts":1745405233894804, "dur":1269, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405233889554, "dur":6533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405233896136, "dur":100828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405233997003, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405233998362, "dur":1322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405233999722, "dur":3145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234002906, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234005270, "dur":152282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234180632, "dur":320, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405234157595, "dur":23785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234181507, "dur":18519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234200074, "dur":7562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234212853, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405234207693, "dur":5248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234212965, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234213143, "dur":5156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234218355, "dur":8746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234227157, "dur":6721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234233918, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234237682, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745405234241883, "dur":13896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1745405234256098, "dur":14627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1745405234270980, "dur":8017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1745405234282532, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745405234279064, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1745405234282771, "dur":3989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Horror Maze/Horror Game_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1745405234286779, "dur":935382, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745405235226883, "dur":1655, "ph":"X", "name": "ProfilerWriteOutput" }
+,
